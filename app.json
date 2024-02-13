@@ -1,0 +1,35 @@
+{
+    "name": "🔱 𝐙𝐄 🔱",
+    "description": "بوت تجميع نقاط",
+    "stack": "container",
+    "logo": "https://graph.org/file/5bc8daaefa9f7979cc8b7.jpg",
+    "repository": "https://github.com/cethon1/arnoldd",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "website": "https://github.com/cethon1/arnoldd",
+    "env": {
+        "OWNER": {
+            "description": "ايـدي الـمـطور",
+            "value": "",
+            "required": true
+        },
+        "ELHYBA": {
+            "description": "توكن البوت",
+            "value": "",
+            "required": true
+        },
+        "USER_BOT": {
+            "description": "يوزر البوت بدون ـ@ـ",
+            "value": "",
+            "required": true
+        },
+        "ID_BOT": {
+            "description": "ايدي البوت",
+            "value": "",
+            "required": true
+    }
+  }
+} 
